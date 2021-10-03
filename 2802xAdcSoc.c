@@ -1,7 +1,6 @@
-
-#include "DSP28x_Project.h"
+*/ #include "DSP28x_Project.h"
 #include "f2802x_headers/include/F2802x_CpuTimers.h"
-#include "f2802x_common/include/F2802x_globalprototypes.h"
+#include "f2802x_common/include/F2802x_globalprototypes.h" */
 interrupt void cpu_timer1_isr(void);
 void Adc_Config(void);
 void adc_init(void);
